@@ -2,6 +2,8 @@
 
 This is a collection of tools and projects for the Ayaneo products.
 
+| [Device Info](https://github.com/ayaneotools/info) | [Known Issues](https://github.com/ayaneotools/info/known_issues) | Windows Reinstall (in progress) |
+
 #### Planned projects:
 - [ ] Dual-booting with SteamOS and Windows, easy switching between both
 - [ ] Automation for Windows re-install (this seems to be a frequent task for some lol)
